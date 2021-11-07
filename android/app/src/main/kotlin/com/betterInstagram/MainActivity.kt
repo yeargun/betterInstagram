@@ -1,0 +1,6 @@
+package com.betterInstagram
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
